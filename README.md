@@ -1,1 +1,1 @@
-# amharic_stemmer
+# amharic_stemmer python code
